@@ -1,5 +1,3 @@
-
-
 {
     "name": "mrz/slimframework",
     "description": "This is a skelethon for slim framework project with eloquent and laravel structure",
@@ -21,7 +19,8 @@
         "vlucas/phpdotenv": "^2.4",
         "robmorgan/phinx": "^0.12.3",
         "illuminate/database": "^7.25",
-        "tuupola/slim-jwt-auth": "^3.4"
+        "tuupola/slim-jwt-auth": "^3.4",
+        "telesign/telesign": "^2.2"
     },
     "autoload": {
         "psr-4": {
